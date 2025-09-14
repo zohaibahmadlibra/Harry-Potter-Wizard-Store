@@ -29,6 +29,22 @@ The app showcases basic e-commerce functionality across four main screens.
 
 ---
 
+## 📷 Screenshots
+
+### 🏠 Home / Login Screen
+![Home Screen](./assets/screenshots/Home.jpeg)
+
+### 🛍️ Product Screen
+![Product Screen](./assets/screenshots/Products.jpeg)
+
+### 📂 Product Details
+![Product Details](./assets/screenshots/Details.jpeg)
+
+### 🛒 Cart Screen
+![Cart Screen](./assets/screenshots/Cart.jpeg)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
