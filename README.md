@@ -21,28 +21,25 @@ The app showcases basic e-commerce functionality across four main screens.
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="./assets/screenshots/Home.jpeg" alt="Home Screen" width="220"/>
+  <img src="./assets/screenshots/Products.jpeg" alt="Products Screen" width="220"/>
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/Details.jpeg" alt="Details Screen" width="220"/>
+  <img src="./assets/screenshots/Cart.jpeg" alt="Cart Screen" width="220"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 - **React Native (Expo)**
 - **JavaScript**
 - **React Navigation** (for navigation between screens)
 - **Expo Assets** (for images & icons)
-
----
-
-## 📷 Screenshots
-
-### 🏠 Home / Login Screen
-![Home Screen](./assets/screenshots/Home.jpeg)
-
-### 🛍️ Product Screen
-![Product Screen](./assets/screenshots/Products.jpeg)
-
-### 📂 Product Details
-![Product Details](./assets/screenshots/Details.jpeg)
-
-### 🛒 Cart Screen
-![Cart Screen](./assets/screenshots/Cart.jpeg)
-
 ---
 
 ## 🚀 Getting Started
